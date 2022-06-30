@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="true_string">True</string>
+    <string name="false_string">False</string>
+    <string name="next_question">Next Question</string>
+
+    <string name="nigeria_question">Nigeria is a country in West Africa</string>
+    <string name="ghana_question">The capital of Ghana is Kumasi</string>
+    <string name="america_question">The first president of America is George Washington</string>
+    <string name="british_question">The current Queen of Britain is Queen Diana</string>
+    <string name="independence_question">America celebrates independence every fourth of July</string>
+
+
+</resources>
